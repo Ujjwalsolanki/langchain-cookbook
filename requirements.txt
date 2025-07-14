@@ -17,6 +17,7 @@ google-generativeai
 langchain-huggingface
 huggingface_hub
 transformers
+sentence-transformers
 torch # PyTorch is required for Hugging Face models
 
 # Environment Variable Management
