@@ -1,6 +1,7 @@
 # LangChain Core
 langchain
 langchain-core
+langchain_community
 
 # OpenAI Integration
 langchain-openai
@@ -29,3 +30,7 @@ scikit-learn
 
 ipykernel
 notebook
+ipywidgets
+
+pydantic    # Pydantic for data validation and settings management
+pydantic[email] # Optional dependencies for email validation
