@@ -23,19 +23,10 @@ Each file shows one concept or use-case:
 ```
 langchain-cookbook/
 │
-├── 01_prompt_templates.py          # Using PromptTemplate
-├── 02_llm_basic_response.py        # Basic LLM response (OpenAI, Mistral, etc.)
-├── 03_chain_sequential.py          # SequentialChain example
-├── 04_vectorstore_faiss.py         # Vector store with FAISS
-├── 05_retrieval_qa.py              # RAG-style QA chain
-├── 06_tool_use_agent.py            # Agent with tools (calculator, search)
+├── 00_llm_open_ai.ipynb            # Using OpenAI api as llm
+├── 01_chatmodel_openai.ipynb       # ChatModel implementations using OpenAI 
+├── 02_chatmodel_google.ipynb       # ChatModel implementations using Google gemini 
 └── ... more coming!
-```
-
-You can run each script independently using:
-
-```bash
-python 01_prompt_templates.py
 ```
 
 ---
