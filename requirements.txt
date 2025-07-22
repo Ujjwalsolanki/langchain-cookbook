@@ -38,3 +38,5 @@ pydantic[email] # Optional dependencies for email validation
 grandalf # Grandalf for advanced prompt management
 
 pypdf # PyPDF for PDF parsing
+
+langchain_experimental  # Experimental features in LangChain
